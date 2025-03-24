@@ -1,0 +1,51 @@
+# Python bytecode / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+ray_lineage_venv/
+venv/
+env/
+.env/
+.venv/
+
+# Generated data and models
+storage/
+/models/
+.ray/
+
+# Logs and temporary files
+*.log
+output.log
+logs/
+tmp/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS specific
+.DS_Store
+
+# Docker volumes
+postgres_data/
+marquez_data/
+
+# Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Miscellaneous
+*.bak
+*.tmp
+*.temp 
