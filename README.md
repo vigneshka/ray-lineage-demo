@@ -1,4 +1,4 @@
-# Ray + Iceberg + OpenLineage Demo
+# Ray + OpenLineage Demo
 
 This demo showcases a complete end-to-end MLOps pipeline with data versioning, model training, serving, and lineage tracking:
 
